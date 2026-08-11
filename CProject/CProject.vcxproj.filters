@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="01c++书写.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="02注释.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03变量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04常量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05标识符命名规则.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06数据类型_整型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07数据类型_sizeof关键字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08数据类型_实型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09数据类型_字符型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10.转移字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11.数据类型_字符串型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12.数据类型_布尔类型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13数据类型_数据的输入.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14.算数运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15赋值运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16.赋值运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17.逻辑运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18选择结构_单if语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19选择结构_嵌套if语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20程序流程结构案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21三目运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22选择结构_switch语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23循环结构_while循环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24循环结构案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25循环结构_do_while语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26循环案例_水仙花树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27循环结构_for循环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28循环结构案例_敲桌子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="29嵌套循环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30循环嵌套案例_乘法表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31跳转语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32跳转语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="33跳转语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="34一维数组定义方式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="35一维数组_数组名.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="36一维数组案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="37数组置换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="38一维数组_冒泡排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="39二维数组的创建.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="40二维数组名.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="41二维数组案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="42函数的定义.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="swap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="43函数分文件的编写.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="44指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="45指针所占内存空间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="46空指针和野指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="47const修饰指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="48数组和指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="49指针和函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="50指针案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="51结构体.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="52结构体数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="53结构体指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="54结构体嵌套结构体.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="55结构体做函数参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="56结构体案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="57通讯录管理系统.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="58new操作符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="59引用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="60应用做函数参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="61引用函数作返回值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="62常量引用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="63函数的默认参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="64函数的占位参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="65函数重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="66属性和行为作为整体.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="swap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
