@@ -216,9 +216,132 @@
     <ClCompile Include="66属性和行为作为整体.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="67封装案例_设计学生类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="68封装_访问权限.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="69成员属性设置为私有.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="70封装案例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="point.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Circle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="71构造函数和析构函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="72构造函数的分类及调用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="73拷贝构造函数调用时机.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="74构造函数调用规则.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="75深拷贝与浅拷贝.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="76初始化列表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="77类对象作为类成员.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="78静态成员.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="79静态成员函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="80this指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="81空指针访问成员函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="82const修饰成员函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="83全局函数做友元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="84 成员函数做友元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="85类做友元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="86运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="87 左移运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="88递增运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="89赋值运算符重载.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="90继承的基本语法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="91 继承中构造和析构顺序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="92继承同名成员处理方式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="93继承同名静态成员处理方式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="94 多继承语法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="95菱形继承.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="96 多态的基本概念.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="97多态案例一-外汇类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="98纯虚函数和抽象类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="99多态案例三-电脑搭建.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="100文件操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="101读文件.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="102二进制文件_写.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="103二进制文件_读.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="point.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Circle.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

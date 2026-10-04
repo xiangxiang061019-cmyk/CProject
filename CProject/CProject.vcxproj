@@ -152,6 +152,10 @@
     <ClCompile Include="08数据类型_实型.cpp" />
     <ClCompile Include="09数据类型_字符型.cpp" />
     <ClCompile Include="10.转移字符.cpp" />
+    <ClCompile Include="100文件操作.cpp" />
+    <ClCompile Include="101读文件.cpp" />
+    <ClCompile Include="102二进制文件_写.cpp" />
+    <ClCompile Include="103二进制文件_读.cpp" />
     <ClCompile Include="11.数据类型_字符串型.cpp" />
     <ClCompile Include="12.数据类型_布尔类型.cpp" />
     <ClCompile Include="13数据类型_数据的输入.cpp" />
@@ -208,9 +212,46 @@
     <ClCompile Include="64函数的占位参数.cpp" />
     <ClCompile Include="65函数重载.cpp" />
     <ClCompile Include="66属性和行为作为整体.cpp" />
+    <ClCompile Include="67封装案例_设计学生类.cpp" />
+    <ClCompile Include="68封装_访问权限.cpp" />
+    <ClCompile Include="69成员属性设置为私有.cpp" />
+    <ClCompile Include="70封装案例.cpp" />
+    <ClCompile Include="71构造函数和析构函数.cpp" />
+    <ClCompile Include="72构造函数的分类及调用.cpp" />
+    <ClCompile Include="73拷贝构造函数调用时机.cpp" />
+    <ClCompile Include="74构造函数调用规则.cpp" />
+    <ClCompile Include="75深拷贝与浅拷贝.cpp" />
+    <ClCompile Include="76初始化列表.cpp" />
+    <ClCompile Include="77类对象作为类成员.cpp" />
+    <ClCompile Include="78静态成员.cpp" />
+    <ClCompile Include="79静态成员函数.cpp" />
+    <ClCompile Include="80this指针.cpp" />
+    <ClCompile Include="81空指针访问成员函数.cpp" />
+    <ClCompile Include="82const修饰成员函数.cpp" />
+    <ClCompile Include="83全局函数做友元.cpp" />
+    <ClCompile Include="84 成员函数做友元.cpp" />
+    <ClCompile Include="85类做友元.cpp" />
+    <ClCompile Include="86运算符重载.cpp" />
+    <ClCompile Include="87 左移运算符重载.cpp" />
+    <ClCompile Include="88递增运算符重载.cpp" />
+    <ClCompile Include="89赋值运算符重载.cpp" />
+    <ClCompile Include="90继承的基本语法.cpp" />
+    <ClCompile Include="91 继承中构造和析构顺序.cpp" />
+    <ClCompile Include="92继承同名成员处理方式.cpp" />
+    <ClCompile Include="93继承同名静态成员处理方式.cpp" />
+    <ClCompile Include="94 多继承语法.cpp" />
+    <ClCompile Include="95菱形继承.cpp" />
+    <ClCompile Include="96 多态的基本概念.cpp" />
+    <ClCompile Include="97多态案例一-外汇类.cpp" />
+    <ClCompile Include="98纯虚函数和抽象类.cpp" />
+    <ClCompile Include="99多态案例三-电脑搭建.cpp" />
+    <ClCompile Include="Circle.cpp" />
+    <ClCompile Include="point.cpp" />
     <ClCompile Include="swap.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Circle.h" />
+    <ClInclude Include="point.h" />
     <ClInclude Include="swap.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
